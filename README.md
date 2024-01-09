@@ -3,6 +3,8 @@
 Welcome to the `Unfurl Those Acronyms Hackathon` project (SF24)  
 > Team Members: Bruno Parrinello, Aakash Pathak, Arnav Rastogi, Gary Zheng, Selina Liu, Junyi Yao, Sindhu Ajoy, Yuliya Sidis, Maureen McGrath
 
+The code for this project cannot be publicly shared, but let me know if you'd like to take a look!
+ 
 ## Background
 
 As most of us are interns, we've had to deal with a lot of **confusing acronyms** during our time here, particularly during our onboarding week. Although acronym glossaries exist on Confluence, there are multiple glossaries that make it hard to navigate through and find the acronym we're looking for. Moreover, searching for multiple definitions for the same acronym becomes difficult. We decided to create a Slack App Integration that does this difficult work for us, and when queried with an acronym, finds all possible suggestions for that acronym across multiple Confluence glossaries! It even displays acronyms depending on the requesting user's disclosure level, to ensure that everything is on a need-to-know basis!
